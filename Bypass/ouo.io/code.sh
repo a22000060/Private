@@ -1,3 +1,4 @@
+
 url=$1
 if [[ "$url" == *"ouo.io"* ]]; then
   ck=".ck.txt"
